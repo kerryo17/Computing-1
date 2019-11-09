@@ -1,0 +1,4 @@
+﻿  daily9.c
+C:\COMP1010\Daily9\Daily9\daily9.c(45): warning C4716: 'loop_up_to_int': must return a value
+C:\COMP1010\Daily9\Daily9\daily9.c(33): warning C4716: 'loop_down_to_zero': must return a value
+  Daily9.vcxproj -> C:\COMP1010\Daily9\Debug\Daily9.exe
