@@ -1,0 +1,14 @@
+﻿  daily13.c
+C:\Users\Kerry\source\repos\Daily13\Daily13\daily13.c(78): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+C:\Users\Kerry\source\repos\Daily13\Daily13\daily13.c(105): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+C:\Users\Kerry\source\repos\Daily13\Daily13\daily13.c(108): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+C:\Users\Kerry\source\repos\Daily13\Daily13\daily13.c(117): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+C:\Users\Kerry\source\repos\Daily13\Daily13\daily13.c(122): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+C:\Users\Kerry\source\repos\Daily13\Daily13\daily13.c(101): warning C4715: 'player_choice': not all control paths return a value
+C:\Users\Kerry\source\repos\Daily13\Daily13\daily13.c(134): warning C4715: 'user_wishes_to_continue': not all control paths return a value
+  Daily13.vcxproj -> C:\Users\Kerry\source\repos\Daily13\Debug\Daily13.exe
