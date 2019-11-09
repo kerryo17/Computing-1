@@ -1,0 +1,10 @@
+﻿  daily14.c
+C:\Users\Kerry\source\repos\Daily14\Daily14\daily14.c(26): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+C:\Users\Kerry\source\repos\Daily14\Daily14\daily14.c(60): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+C:\Users\Kerry\source\repos\Daily14\Daily14\daily14.c(62): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+C:\Users\Kerry\source\repos\Daily14\Daily14\daily14.c(51): warning C4716: 'convert_lengths': must return a value
+C:\Users\Kerry\source\repos\Daily14\Daily14\daily14.c(56): warning C4716: 'convert_weights': must return a value
+  Daily14.vcxproj -> C:\Users\Kerry\source\repos\Daily14\x64\Debug\Daily14.exe

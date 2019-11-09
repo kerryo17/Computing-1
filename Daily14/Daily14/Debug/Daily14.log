@@ -1,0 +1,6 @@
+﻿  daily14.c
+C:\Users\Kerry\source\repos\Daily14\Daily14\daily14.c(8): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  C:\Users\Kerry\source\repos\Daily14\Daily14\daily14.c(8): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  C:\Users\Kerry\source\repos\Daily14\Daily14\daily14.c(8): note: the missing variadic argument 2 is required by format string '%s'
+  C:\Users\Kerry\source\repos\Daily14\Daily14\daily14.c(8): note: this argument is used as a buffer size
+  Daily14.vcxproj -> C:\Users\Kerry\source\repos\Daily14\Debug\Daily14.exe
