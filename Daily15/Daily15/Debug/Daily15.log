@@ -1,0 +1,12 @@
+﻿  daily15.c
+C:\Users\Kerry\source\repos\Daily15\Daily15\daily15.c(28): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+C:\Users\Kerry\source\repos\Daily15\Daily15\daily15.c(59): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+C:\Users\Kerry\source\repos\Daily15\Daily15\daily15.c(92): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+C:\Users\Kerry\source\repos\Daily15\Daily15\daily15.c(138): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+C:\Users\Kerry\source\repos\Daily15\Daily15\daily15.c(140): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+  Daily15.vcxproj -> C:\Users\Kerry\source\repos\Daily15\Debug\Daily15.exe
