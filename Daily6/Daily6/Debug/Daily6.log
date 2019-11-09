@@ -1,0 +1,4 @@
+﻿  daily6.c
+C:\Users\Kerry\source\repos\Daily6\Daily6\daily6.c(29): warning C4716: 'recursive_down_to_zero': must return a value
+C:\Users\Kerry\source\repos\Daily6\Daily6\daily6.c(37): warning C4716: 'recursive_up_to_int': must return a value
+  Daily6.vcxproj -> C:\Users\Kerry\source\repos\Daily6\Debug\Daily6.exe
